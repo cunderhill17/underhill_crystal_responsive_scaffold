@@ -236,7 +236,7 @@
   grid-column-end: 13;
 }
 
-/*Styling for Responsive Grid*/
+/*Styling for Tablet Grid*/
 @media (min-width: 768px) {
   .md\:col-span-1 {
     grid-column: span 1;
@@ -350,6 +350,7 @@
     grid-column-end: 13;
   }
 }
+/*Styling for Desktop Grid*/
 @media (min-width: 1200px) {
   .lg\:col-span-1 {
     grid-column: span 1;
