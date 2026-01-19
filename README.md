@@ -1,5 +1,5 @@
 # Assignment 2: Responsive Scaffold
-This repository is for Assignment 2 in the Web Development 1 Course in IDP3 @ Fanshawe
+This repository is for Assignment 2 in the Web Development 1 Course in IDP3 @ Fanshawe in which we had to recreate a responsive grid based on a design given in the assignment brief.
 
 ## Installation
 No installation required. Simply download the zip file and extract.
